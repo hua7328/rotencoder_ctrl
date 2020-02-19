@@ -7,7 +7,7 @@
 * @Module Name:	rotencoder_ctrl
 * @Description:	
 * @Development Tools:	Quartus II 13.0
-* @Revision History:	22-January-2020
+* @Revision History:	22-January-2015
 *********************************************************************/
 
 module	rotencoder_ctrl(
